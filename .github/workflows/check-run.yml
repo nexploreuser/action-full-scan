@@ -25,5 +25,5 @@ jobs:
       uses: ./
       id: action-full-scan
       with:
-        target: 'https://typ5cw.csb.app/'
+        target: 'https://ssjx9h.csb.app/'
         allow_issue_writing: false
